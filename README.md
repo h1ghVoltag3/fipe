@@ -5,7 +5,7 @@ FIPE Crawler GUI
 License
 Python Version
 
-O FIPE Crawler GUI é uma interface gráfica desenvolvida em Python para coletar dados de veículos da Tabela FIPE (Fundação Instituto de Pesquisas Econômicas). O programa permite baixar informações detalhadas sobre marcas, modelos, anos e valores de veículos, salvando os dados em formatos CSV e Excel.
+O FIPE Crawler GUI é uma interface gráfica desenvolvida em Python para coletar dados de veículos da Tabela FIPE (Fundação Instituto de Pesquisas Econômicas). O programa permite baixar informações detalhadas sobre marcas, modelos, anos e valores de veículos, salvando os dados em formatos CSV e XLSX.
 
 
 Créditos
